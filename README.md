@@ -288,7 +288,7 @@ File: `views/index.erb`
 
 ```erb
 <h1>Welcome!</h1>
-```
+``` 
 
 Our ERB file at `views/index.erb` (Sinatra will automatically look for the
 `.erb` extension when you call `erb` in the controller) contains the necessary
